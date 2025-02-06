@@ -1,16 +1,26 @@
-# flutter_search_bar
+# Futter Search Bar
+A simple search bar is implemented using a TextField widget. You can combine it with other widgets to enhance the UI, like AppBar, ListView, or ListTile.
 
-A new Flutter project.
+# Download Flutter
+- Visit the official Flutter site "https://docs.flutter.dev/get-started/install"
+- Extract the downloaded file, e.g., C:\src\flutter.
+- Add the flutter/bin directory to your system's 'PATH' 
+- (Settings are  : Open Control Panel > System and Security > System > Advanced system settings > Environment Variables > System variables section, find the Path )
+- `flutter doctor` (Run Flutter Doctor)
 
-## Getting Started
+# To run the existing project
+- Extract the folder copy it to desired location
+- Move into the folder open Command prompt
+- Run `flutter run`
+  
+# if not working ( create new project )
+- flutter create my_flutter_app (project name could be anything) (Installation and setup )
+- cd my_flutter_app (navigate to the project)
+- `flutter run` (Run the project)
+- Paste the files of the project into new setup just by coping.
 
-This project is a starting point for a Flutter application.
+# Features
+You can get an idea how to use Search Bar and various attributes in your project.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screencast
+[text](<../../../Desktop/Flutter Search bar. mp4>)
