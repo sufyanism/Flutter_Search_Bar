@@ -21,6 +21,3 @@ A simple search bar is implemented using a TextField widget. You can combine it 
 
 # Features
 You can get an idea how to use Search Bar and various attributes in your project.
-
-# Screencast
-[text](<../../../Desktop/Flutter Search bar. mp4>)
